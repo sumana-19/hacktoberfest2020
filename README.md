@@ -5,9 +5,10 @@ Simply add your full name and the link to your github profile to Participants.tx
 and maybe checkout the other people who've added their names and the open source
 contributions they've made so far by visiting their profiles.
 
-
+.
 
 Other additional useful links:
+
 Learn what exactly is GitHub here:
 https://devbae.tech/git-it-p1/
 
